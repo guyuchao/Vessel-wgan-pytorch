@@ -1,4 +1,4 @@
-# vessel-gan-pytorch
+# Vessel-wgan-pytorch
 The code is an pytorch implementation of [《Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks》](https://arxiv.org/abs/1706.09318)
 
 ---
