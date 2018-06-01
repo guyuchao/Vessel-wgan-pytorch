@@ -1,5 +1,13 @@
 # Vessel-wgan-pytorch
-The code is an pytorch implementation of [《Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks》](https://arxiv.org/abs/1706.09318)
+
+> Author: Yuchao Gu
+
+> E-mail: 2015014178@buct.edu.cn
+
+> Date: 2018-05-27
+
+>Description: The code is an pytorch implementation of [《Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks》](https://arxiv.org/abs/1706.09318)
+
 
 ---
 
